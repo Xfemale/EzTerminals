@@ -1,1 +1,1 @@
-
+# To install the mod just download the file, then insert into your mods folder. The Guis arent currently working so i changed it to automatically turn on when installed. once the guis are completely done you will have the choices of turning it on and off, and setting delays and click speeds.
